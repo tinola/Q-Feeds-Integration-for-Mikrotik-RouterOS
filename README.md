@@ -136,7 +136,10 @@ The differential update is **per API key** and **based on your license**:
 - ✅ **CIDR Support**: Supports CIDR notation
 - ✅ **Input Validation**: Proper IP address validation
 
-**When to run:** Adjust based on your license—Community: once per day; Plus: every 4 hours; Premium: every 20 minutes
+**When to run:** Adjust based on your license: 
+Community: once per day 
+Plus: every 4 hours 
+Premium: every 20 minutes
 
 ### Coordination Mechanism
 
